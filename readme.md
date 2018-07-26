@@ -1,6 +1,6 @@
-# Getting Started With Git
+##### Getting Started With Git
 
-## A Fun Project
+ A Fun Project
 
 ### By DanielOX
 
